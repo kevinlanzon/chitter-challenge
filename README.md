@@ -1,7 +1,7 @@
 Chitter Challenge
 =============
 
-###Makers Academy Week 4 challenge - Build a Twitter Clone
+[Makers Academy](http://www.makersacademy.com/) Week 4 challenge - Build a Twitter Clone
 
 This weeks challenge was to build a Twitter clone that will allow the users to post messages to a public stream. 
 
